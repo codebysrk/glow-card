@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Allan:wght@400;700&family=Condiment&family=UnifrakturCook:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Geo:ital@0;1&family=UnifrakturCook:wght@700&display=swap");
 
 * {
   box-sizing: border-box;
@@ -84,7 +84,7 @@ img {
 }
 
 .card .content h1 {
-  font-family: "UnifrakturCook";
+  font-family: "UnifrakturCook", cursive;
   text-align: center;
   letter-spacing: 2px;
   margin-bottom: 6px;
@@ -92,7 +92,7 @@ img {
 }
 
 .card .content p {
-  font-family: "Condiment";
+  font-family: "Geo", sans-serif;
   font-size: 15px;
   line-height: 1.35;
   color: #cfcfcf;
