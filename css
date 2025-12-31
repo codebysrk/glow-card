@@ -64,6 +64,7 @@ img {
   object-fit: cover;
   border-radius: 8px;
   margin-bottom: 8px;
+  pointer-events: none;
 }
 
 .card .content {
