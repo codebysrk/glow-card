@@ -1,6 +1,13 @@
-# Kimetsu Glow Card (Demon Slayer Animated Card)
+# Advanced CSS Practice: Berserk Animated Card
 
-A visually stunning animated card component featuring **Tanjiro Kamado** from _Demon Slayer (Kimetsu no Yaiba)_. This project demonstrates the power of modern CSS features to create immersive, hardware-accelerated visual effects without relying on JavaScript libraries.
+A frontend experiment exploring modern CSS capabilities like **Houdini API (`@property`)**, **Conic Gradients**, and **Hardware Acceleration**. Built to master complex animations and performant UI effects without JavaScript.
+
+The project features **Guts**, the Black Swordsman from _Berserk_, framed by a rotating, glowing aura implemented entirely with modern CSS.
+
+## 📸 Preview
+
+![Berserk Card Preview](preview-1.png)
+![Berserk Card Hover Effect](preview-2.png)
 
 ## ✨ Features
 
@@ -31,12 +38,6 @@ A visually stunning animated card component featuring **Tanjiro Kamado** from _D
    ```
 3. **Open `index.html`** in your favorite browser to see the magic!
 
-## 📸 Preview
-
-_(You can add a screenshot here later)_
-
 ---
 
-This project is perfect for learning how to use the `@property` rule to animate gradients, which is not possible with standard CSS transitions.
-
-**Enjoy the breathing style animation! 🌊🔥**
+**"He who fights with monsters might take care lest he thereby become a monster."**
