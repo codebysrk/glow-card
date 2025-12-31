@@ -7,8 +7,8 @@ The project features **Guts**, the Black Swordsman from _Berserk_, framed by a r
 ## 📸 Preview
 
 <div style="display: flex; gap: 10px;">
-  <img src="assets/images/preview-1.png" alt="Berserk Card Preview" width="45%">
-  <img src="assets/images/preview-2.png" alt="Berserk Card Hover Effect" width="45%">
+  <img src="preview-1.png" alt="Berserk Card Preview" width="45%">
+  <img src="preview-2.png" alt="Berserk Card Hover Effect" width="45%">
 </div>
 
 ## ✨ Features
