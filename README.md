@@ -42,4 +42,4 @@ The project features **Guts**, the Black Swordsman from _Berserk_, framed by a r
 
 ---
 
-**"He who fights with monsters might take care lest he thereby become a monster."**
+**"He who fights with monsters might take care lest he thereby become a monster.."**
